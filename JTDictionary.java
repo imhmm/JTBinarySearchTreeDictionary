@@ -3,7 +3,8 @@
 // CS&145
 // Lab #6: Binary Search Tree Dictionary
 //
-// This program...
+// This program will create a dictionary with records including data and allows the user to 
+// add, delete, look up, modify, and ask for the number of. 
 //
 // For extra credit I used switch case.
 
